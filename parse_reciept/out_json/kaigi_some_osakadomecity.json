@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230104",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "マクドナルド__kaigi_some_osakadomecity",
+    "tekiyou": "作業検討",
+    "val": 280
+  },
+  {
+    "date": "20230104",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "サイゼリア__kaigi_some_osakadomecity",
+    "tekiyou": "作業検討",
+    "val": 250
+  }
+]

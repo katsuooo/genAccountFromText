@@ -1,0 +1,38 @@
+[
+  {
+    "date": "1/15",
+    "val": 300,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  },
+  {
+    "date": "1/23",
+    "val": 300,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  },
+  {
+    "date": "1/28",
+    "val": 300,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  },
+  {
+    "date": "3/18",
+    "val": 430,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  },
+  {
+    "date": "4/9",
+    "val": 430,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  },
+  {
+    "date": "5/19",
+    "val": 430,
+    "place": "",
+    "memo": "kaigi_sanmarc_namba"
+  }
+]

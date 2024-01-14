@@ -1,0 +1,56 @@
+[
+  {
+    "date": "20230829",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "torajacofee__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 290
+  },
+  {
+    "date": "20230906",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "上島珈琲__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 580
+  },
+  {
+    "date": "20230928",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "cafelab__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 649
+  },
+  {
+    "date": "20231012",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "cafe__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 320
+  },
+  {
+    "date": "20231125",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "oic__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 396
+  },
+  {
+    "date": "20231224",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "cafe__kaigi_cafe_some_umeda",
+    "tekiyou": "作業検討",
+    "val": 649
+  }
+]

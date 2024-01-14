@@ -1,0 +1,101 @@
+[
+  {
+    "date": "20230101",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 5120
+  },
+  {
+    "date": "20230128",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 2900
+  },
+  {
+    "date": "20230225",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 590
+  },
+  {
+    "date": "20230304",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 2030
+  },
+  {
+    "date": "20230312",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 5380
+  },
+  {
+    "date": "20230318",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 1530
+  },
+  {
+    "date": "20230326",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 990
+  },
+  {
+    "date": "20230402",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 2480
+  },
+  {
+    "date": "20230409",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "道頓堀__kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 2280
+  },
+  {
+    "date": "20230417",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 2460
+  },
+  {
+    "date": "20230513",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_namba",
+    "tekiyou": "作業検討",
+    "val": 1880
+  }
+]

@@ -1,0 +1,21 @@
+#
+# 2023 雑費
+#
+2/7 934 jgコーポレーション郵送料 >>> single_tushin.txt
+2/9 21000 窪田氏経理書類作成代   >>> single_gaichukouchin.txt
+2/21 3500　楽天　　　　　　　　　>>> shoumouhin_tuhan.txt
+2/21 3280 楽天                 >>> shoumouhin_tuhan.txt
+5/24 10000 窪田氏ドキュメント作成費  >>> single_gaichukouchin.txt
+6/22 6000 窪田氏はんだ付け作業費    >>> single_gaichukouchin.txt
+7/16 2900 引っ越しに伴う粗大ごみ処理手数料 >>> single_nizukuri.txt
+7/30 33000 Ｎスタイル                    >>> single_nizukuri.txt
+
+2/9 21000 窪田氏経理書類作成代
+5/24 10000 窪田氏ドキュメント作成費
+6/22 6000 窪田氏はんだ付け作業費
+
+2/21 3500　楽天
+2/21 3280 楽天
+
+7/16 2900 引っ越しに伴う粗大ごみ処理手数料
+7/30 33000 Ｎスタイル

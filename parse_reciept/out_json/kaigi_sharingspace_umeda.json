@@ -1,0 +1,38 @@
+[
+  {
+    "date": "20230118",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "西梅田__kaigi_sharingspace_umeda",
+    "tekiyou": "作業検討",
+    "val": 1950
+  },
+  {
+    "date": "20230205",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "西梅田__kaigi_sharingspace_umeda",
+    "tekiyou": "作業検討",
+    "val": 1390
+  },
+  {
+    "date": "20230526",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "西梅田__kaigi_sharingspace_umeda",
+    "tekiyou": "作業検討",
+    "val": 1290
+  },
+  {
+    "date": "20230604",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "天六店__kaigi_sharingspace_umeda",
+    "tekiyou": "作業検討",
+    "val": 3810
+  }
+]

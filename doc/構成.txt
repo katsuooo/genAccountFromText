@@ -1,0 +1,12 @@
+
+statementは別プロジェクトに
+
+
+main.py
+pre_process: text >>> rough json
+
+
+
+
+
+

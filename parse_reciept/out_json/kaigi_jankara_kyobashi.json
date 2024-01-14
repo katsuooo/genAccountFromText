@@ -1,0 +1,29 @@
+[
+  {
+    "date": "20231115",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_kyobashi",
+    "tekiyou": "作業検討",
+    "val": 880
+  },
+  {
+    "date": "20231201",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_kyobashi",
+    "tekiyou": "作業検討",
+    "val": 1160
+  },
+  {
+    "date": "20231218",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_kyobashi",
+    "tekiyou": "作業検討",
+    "val": 1860
+  }
+]

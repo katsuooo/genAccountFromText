@@ -1,0 +1,32 @@
+[
+  {
+    "date": "7/1",
+    "val": 1580,
+    "place": "",
+    "memo": "蒲田東口__kaigi_karaokekan_tokyo"
+  },
+  {
+    "date": "8/8",
+    "val": 1432,
+    "place": "",
+    "memo": "池袋東口__kaigi_karaokekan_tokyo"
+  },
+  {
+    "date": "8/11",
+    "val": 2410,
+    "place": "",
+    "memo": "銀座__kaigi_karaokekan_tokyo"
+  },
+  {
+    "date": "9/19",
+    "val": 1180,
+    "place": "",
+    "memo": "新橋__kaigi_karaokekan_tokyo"
+  },
+  {
+    "date": "9/20",
+    "val": 1375,
+    "place": "",
+    "memo": "日本橋__kaigi_karaokekan_tokyo"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "date": "20230803",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "大阪本店__book_jyunkudo_umeda",
+    "tekiyou": "書籍購入",
+    "val": 2423
+  },
+  {
+    "date": "20230816",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "book_jyunkudo_umeda",
+    "tekiyou": "書籍購入",
+    "val": 693
+  },
+  {
+    "date": "20230906",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "book_jyunkudo_umeda",
+    "tekiyou": "書籍購入",
+    "val": 814
+  },
+  {
+    "date": "20231019",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "book_jyunkudo_umeda",
+    "tekiyou": "書籍購入",
+    "val": 748
+  }
+]

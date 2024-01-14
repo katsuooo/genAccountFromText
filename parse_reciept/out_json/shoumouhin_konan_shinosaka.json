@@ -1,0 +1,29 @@
+[
+  {
+    "date": "20230212",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_konan_shinosaka",
+    "tekiyou": "物品購入",
+    "val": 4928
+  },
+  {
+    "date": "20230503",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_konan_shinosaka",
+    "tekiyou": "物品購入",
+    "val": 280
+  },
+  {
+    "date": "20230722",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_konan_shinosaka",
+    "tekiyou": "物品購入",
+    "val": 745
+  }
+]

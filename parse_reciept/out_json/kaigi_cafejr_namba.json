@@ -1,0 +1,29 @@
+[
+  {
+    "date": "20230115",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_cafejr_namba",
+    "tekiyou": "作業検討",
+    "val": 280
+  },
+  {
+    "date": "20230128",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_cafejr_namba",
+    "tekiyou": "作業検討",
+    "val": 300
+  },
+  {
+    "date": "20231008",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_cafejr_namba",
+    "tekiyou": "作業検討",
+    "val": 300
+  }
+]

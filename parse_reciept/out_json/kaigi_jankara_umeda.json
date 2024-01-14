@@ -1,0 +1,758 @@
+[
+  {
+    "date": "20230101",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 4440
+  },
+  {
+    "date": "20230107",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 720
+  },
+  {
+    "date": "20230107",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2010
+  },
+  {
+    "date": "20230107",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2540
+  },
+  {
+    "date": "20230111",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230112",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1520
+  },
+  {
+    "date": "20230116",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1330
+  },
+  {
+    "date": "20230116",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230117",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 675
+  },
+  {
+    "date": "20230117",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 715
+  },
+  {
+    "date": "20230119",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230119",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230120",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230121",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1940
+  },
+  {
+    "date": "20230205",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1000
+  },
+  {
+    "date": "20230221",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 715
+  },
+  {
+    "date": "20230222",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1790
+  },
+  {
+    "date": "20230224",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230302",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 920
+  },
+  {
+    "date": "20230302",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230307",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1360
+  },
+  {
+    "date": "20230307",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1330
+  },
+  {
+    "date": "20230307",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230311",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 500
+  },
+  {
+    "date": "20230316",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230323",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230327",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230328",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1610
+  },
+  {
+    "date": "20230404",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230405",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1920
+  },
+  {
+    "date": "20230407",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 800
+  },
+  {
+    "date": "20230409",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1570
+  },
+  {
+    "date": "20230411",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2350
+  },
+  {
+    "date": "20230412",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230526",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1380
+  },
+  {
+    "date": "20230531",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230604",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1430
+  },
+  {
+    "date": "20230609",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 400
+  },
+  {
+    "date": "20230617",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1020
+  },
+  {
+    "date": "20230621",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230627",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 675
+  },
+  {
+    "date": "20230711",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1600
+  },
+  {
+    "date": "20230714",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230719",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1350
+  },
+  {
+    "date": "20230721",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1570
+  },
+  {
+    "date": "20230724",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1570
+  },
+  {
+    "date": "20230728",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1140
+  },
+  {
+    "date": "20230822",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 675
+  },
+  {
+    "date": "20230823",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1690
+  },
+  {
+    "date": "20230828",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1690
+  },
+  {
+    "date": "20230829",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1470
+  },
+  {
+    "date": "20230908",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1690
+  },
+  {
+    "date": "20230908",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "（クレカ売上票のみ）__kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2420
+  },
+  {
+    "date": "20230914",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231002",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231003",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231004",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1140
+  },
+  {
+    "date": "20231009",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 3030
+  },
+  {
+    "date": "20231009",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1200
+  },
+  {
+    "date": "20231016",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231024",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1550
+  },
+  {
+    "date": "20231025",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1460
+  },
+  {
+    "date": "20231026",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231028",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2190
+  },
+  {
+    "date": "20231104",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 3570
+  },
+  {
+    "date": "20231105",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1730
+  },
+  {
+    "date": "20231114",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1480
+  },
+  {
+    "date": "20231116",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1080
+  },
+  {
+    "date": "20231117",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1140
+  },
+  {
+    "date": "20231123",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1530
+  },
+  {
+    "date": "20231126",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2950
+  },
+  {
+    "date": "20231127",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1800
+  },
+  {
+    "date": "20231128",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 975
+  },
+  {
+    "date": "20231128",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1625
+  },
+  {
+    "date": "20231129",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2100
+  },
+  {
+    "date": "20231130",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2230
+  },
+  {
+    "date": "20231201",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 820
+  },
+  {
+    "date": "20231204",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1800
+  },
+  {
+    "date": "20231211",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1850
+  },
+  {
+    "date": "20231213",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2860
+  },
+  {
+    "date": "20231213",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1850
+  },
+  {
+    "date": "20231219",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 1310
+  },
+  {
+    "date": "20231221",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2710
+  },
+  {
+    "date": "20231228",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_jankara_umeda",
+    "tekiyou": "作業検討",
+    "val": 2410
+  }
+]

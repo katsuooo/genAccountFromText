@@ -1,0 +1,28 @@
+20231120
+ステートメントを集める
+
+//毎月
+microsoft 365
+amazon prime
+risona2
+電気
+ガス
+家賃
+ホテル
+スマホ1
+スマホ2
+//単発
+amazon
+rakuten
+kaspersky
+
+//----
+レシートと合してチェック
+hook
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  //template 種類 / book, kaigi, shoumouhin, 
+  // single / gaichuukouchin, kousai, nizukuri, ryohi, uriage, zappi_u 
+  //yachin / m, oh, om
+  "book": {"date": "yyyymmdd","denpyou": "","kanjou": "消耗品費","aite": "事業主借","memo": "book_shop_place","tekiyou": "書籍購入","val": 0},
+  "kaigi":{"date": "yyyymmdd","denpyou": "","kanjou": "会議費","aite": "事業主借","memo": "kaigi_shop_place","tekiyou": "作業検討","val": 0},
+  "shoumouhin":{"date": "yyyymmdd","denpyou": "","kanjou": "消耗品費","aite": "事業主借","memo": "shoumouhin_shop_place","tekiyou": "物品購入","val": 0},
+  "single": {
+    "gaichukouchin" :{"date": "yyyymmdd","denpyou": "","kanjou": "外注工賃","aite": "事業主借","memo": "","tekiyou": "外注に委託","val": 0},
+    "kousai"   :{"date": "yyyymmdd","denpyou": "","kanjou": "接待交際費","aite": "事業主借","memo": "","tekiyou": "飲食等","val": 0},
+    "nizukuri":{"date": "yyyymmdd","denpyou": "","kanjou": "荷造運賃","aite": "事業主借","memo": "","tekiyou": "配送費","val": 0},
+    "ryohi":{"date": "yyyymmdd","denpyou": "", "kanjou": "旅費交通費","aite": "事業主借","memo": "","tekiyou": "","val": 0},
+    "uriage":{"date": "yyyymmdd","denpyou": "","kanjou": "売掛金","aite": "売上高","memo": "","tekiyou": "売上計上","val": 0},
+    "zappi":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "事業主借","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0},   
+    "zappi_u":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "売掛金","memo": "振込手数料TOTAL","tekiyou": "振込手数料","val": 0},   
+    "zappi_r":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "事業主借","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0},
+    "zappi_m":{"date": "yyyymmdd","denpyou": "","kanjou": "事業主借","aite": "未払金","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0}
+   },
+  "yachin": {
+    "monthly":{"date": "yyyymmdd","denpyou": "","kanjou": "地代家賃","aite": "事業主借","memo": "家賃","tekiyou": "家賃","val": 76108},
+    "y"      :{"date": "yyyymmdd","denpyou": "","kanjou": "事業主借","aite": "未払金","memo": "年度末払い忘れ","tekiyou": "家賃(年度末払い忘れ)","val": 8},  
+    "oh"     :{"date": "yyyymmdd","denpyou": "","kanjou": "事業主借","aite": "未払金","memo": "未払い埋め","tekiyou": "家賃(遅れ払い)","val": 76108},
+    "om"     :{"date": "yyyymmdd","denpyou": "","kanjou": "地代家賃","aite": "未払金","memo": "月末払い忘れ","tekiyou": "家賃(払い忘れ)","val": 76108}    
+  },
+
+}

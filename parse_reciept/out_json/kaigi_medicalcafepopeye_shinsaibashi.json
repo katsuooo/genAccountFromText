@@ -1,0 +1,29 @@
+[
+  {
+    "date": "20230211",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_shinsaibashi",
+    "tekiyou": "作業検討",
+    "val": 3580
+  },
+  {
+    "date": "20230326",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_shinsaibashi",
+    "tekiyou": "作業検討",
+    "val": 1680
+  },
+  {
+    "date": "20230408",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_medicalcafepopeye_shinsaibashi",
+    "tekiyou": "作業検討",
+    "val": 890
+  }
+]

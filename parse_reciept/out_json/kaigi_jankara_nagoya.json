@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230217",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "錦本店__kaigi_jankara_nagoya",
+    "tekiyou": "作業検討",
+    "val": 600
+  },
+  {
+    "date": "20230218",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "錦店__kaigi_jankara_nagoya",
+    "tekiyou": "作業検討",
+    "val": 1240
+  }
+]

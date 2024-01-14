@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230108",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_familymart_umeda",
+    "tekiyou": "物品購入",
+    "val": 63
+  },
+  {
+    "date": "20230221",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_familymart_umeda",
+    "tekiyou": "物品購入",
+    "val": 220
+  }
+]

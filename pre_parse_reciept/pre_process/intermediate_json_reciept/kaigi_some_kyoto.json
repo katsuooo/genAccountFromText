@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2/20",
+    "val": 880,
+    "place": "",
+    "memo": "天まる\t\t\t__kaigi_some_kyoto"
+  },
+  {
+    "date": "3/14",
+    "val": 850,
+    "place": "",
+    "memo": "肉丸商店__kaigi_some_kyoto"
+  },
+  {
+    "date": "3/15",
+    "val": 600,
+    "place": "",
+    "memo": "サイゼリア__kaigi_some_kyoto"
+  },
+  {
+    "date": "3/27",
+    "val": 780,
+    "place": "",
+    "memo": "鳥プロ食堂__kaigi_some_kyoto"
+  },
+  {
+    "date": "4/5",
+    "val": 650,
+    "place": "",
+    "memo": "松屋__kaigi_some_kyoto"
+  },
+  {
+    "date": "4/17",
+    "val": 985,
+    "place": "",
+    "memo": "王将__kaigi_some_kyoto"
+  },
+  {
+    "date": "4/28",
+    "val": 370,
+    "place": "",
+    "memo": "マクドナルド__kaigi_some_kyoto"
+  },
+  {
+    "date": "5/8",
+    "val": 650,
+    "place": "",
+    "memo": "天まる__kaigi_some_kyoto"
+  },
+  {
+    "date": "6/2",
+    "val": 990,
+    "place": "",
+    "memo": "ちゃんぽん亭__kaigi_some_kyoto"
+  },
+  {
+    "date": "9/3",
+    "val": 450,
+    "place": "",
+    "memo": "なか卯__kaigi_some_kyoto"
+  },
+  {
+    "date": "11/7",
+    "val": 700,
+    "place": "",
+    "memo": "丸亀うどん__kaigi_some_kyoto"
+  },
+  {
+    "date": "11/7",
+    "val": 600,
+    "place": "",
+    "memo": "福泰惣菜__kaigi_some_kyoto"
+  },
+  {
+    "date": "12/7",
+    "val": 420,
+    "place": "",
+    "memo": "つくもうどん__kaigi_some_kyoto"
+  }
+]

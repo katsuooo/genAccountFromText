@@ -1,0 +1,7 @@
+#
+# 2023 some/shinsaibashi
+#
+1/8 710 hub
+1/30 250 doutor
+11/23 950 マクドナルド
+

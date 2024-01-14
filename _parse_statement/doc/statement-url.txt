@@ -1,0 +1,26 @@
+
+
+//毎月
+microsoft 365 -> outlook
+amazon prime  -> paypay card
+risona2       -> risona
+電気          -> 関電
+ガス          -> 関電
+家賃          -> paypay card?
+ホテル        -> life card
+スマホ1       -> ymobile　　　　
+スマホ2       -> rakuten
+//単発
+amazon　　　　-> paypay card
+rakuten      -> paypay card
+kaspersky    -> コンビニ(ステートメントでない)
+
+//----
+レシートと合してチェック
+hook         -> paypay card
+
+
+//----
+ステートメントはprojectを分けるか
+
+

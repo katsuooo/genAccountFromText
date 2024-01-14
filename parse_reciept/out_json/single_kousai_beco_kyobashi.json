@@ -1,0 +1,92 @@
+[
+  {
+    "date": "20230225",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 4600
+  },
+  {
+    "date": "20230503",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 3840
+  },
+  {
+    "date": "20230603",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 1880
+  },
+  {
+    "date": "20230816",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "",
+    "tekiyou": "飲食等",
+    "val": 3080
+  },
+  {
+    "date": "20230924",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "",
+    "tekiyou": "飲食等",
+    "val": 4000
+  },
+  {
+    "date": "20231029",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 5840
+  },
+  {
+    "date": "20231115",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 1200
+  },
+  {
+    "date": "20231201",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 1200
+  },
+  {
+    "date": "20231218",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 1640
+  },
+  {
+    "date": "20231231",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "kyobashi",
+    "tekiyou": "飲食等",
+    "val": 4160
+  }
+]

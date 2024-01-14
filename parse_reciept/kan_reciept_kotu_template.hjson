@@ -1,0 +1,37 @@
+{
+  //template 種類 / places
+  "SHINOSAKA":"NO_KOTU",
+  "NISHINAKA":"NO_KOTU",
+  "SOME":"NO_KOTU",
+  "TOKYO":"NO_KOTU",
+  "TUHAN":"NO_KOTU",
+  "NANBA": {"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-なんば(往復)","val": 460},
+  "NAMBA": {"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-なんば(往復)","val": 460},
+  "UMEDA":{"aite": "事業主借","date": "yyyymdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-梅田(往復)","val": 360},  
+  "NIHONBASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-なんば(往復)","val": 480},
+  "HIGOBASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-肥後橋(往復)","val": 460},
+  "SHINSAIBASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-心斎橋(往復)","val": 460},
+  "YODOYABASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-淀屋橋(往復)","val": 360},
+  "HONMACHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-本町(往復)","val": 460},
+  "KITAHAMA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-北浜(往復)","val": 780},
+  "JUSO":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "南方-十三(往復)","val": 320},
+  "JYUUSOU":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "南方-十三(往復)","val": 320},
+  "KYOTO":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-四条河原町(往復)","val":800},
+  "TENMA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "南方-扇町(往復)","val": 740},
+  "NISHIOHASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-西大橋(往復)","val": 460},
+  "MATSUYAMA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "別途出張交通費","val": 0},
+  "SANNOMIYA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "南方-神戸三宮(往復)","val": 640},
+  "AMAGASAKI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-尼崎(往復)","val": 720},
+  "AWAZA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-阿波座(往復)","val": 460},
+  "SAKAISUJIHONMACHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-堺筋本町(往復)","val": 460},
+  "TAKATSUKI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "新大阪-高槻(往復)","val": 520},
+  "HUKUSHIMA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-福島(往復)","val": 620},
+  "KYOBASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-京橋(往復)","val": 780},
+  "TURUHASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-鶴橋(往復)","val": 560},
+  "NIPPONBASHI":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-日本橋(往復)","val": 560}
+  "ISHIYAMA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "新大阪-石山(往復)","val": 1980},
+    "NODA":{"aite": "事業主借","date": "yyyymmdd","denpyou": "","kanjou": "旅費交通費","memo": "","tekiyou": "西中島南方-野田(往復)","val": 620}
+}
+
+
+

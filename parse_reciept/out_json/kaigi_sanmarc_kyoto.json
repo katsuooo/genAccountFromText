@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230114",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_sanmarc_kyoto",
+    "tekiyou": "作業検討",
+    "val": 300
+  },
+  {
+    "date": "20230220",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_sanmarc_kyoto",
+    "tekiyou": "作業検討",
+    "val": 300
+  }
+]

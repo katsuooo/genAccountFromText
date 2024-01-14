@@ -1,0 +1,350 @@
+[
+  {
+    "date": "1/8",
+    "val": 7000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "1/8",
+    "val": 1250,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "1/15",
+    "val": 27000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "1/24",
+    "val": 18000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "1/27",
+    "val": 16000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "2/15",
+    "val": 9000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "2/25",
+    "val": 1200,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "2/25",
+    "val": 19500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "3/5",
+    "val": 8000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "3/15",
+    "val": 1000,
+    "place": "",
+    "memo": "pinadako"
+  },
+  {
+    "date": "3/15",
+    "val": 9000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "3/17",
+    "val": 35000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "3/26",
+    "val": 25000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "4/1",
+    "val": 4500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "4/14",
+    "val": 25000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "4/16",
+    "val": 800,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "4/16",
+    "val": 11500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "5/1",
+    "val": 13500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "5/5",
+    "val": 16500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "5/10",
+    "val": 4400,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "5/12",
+    "val": 1250,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "5/12",
+    "val": 15400,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "6/21",
+    "val": 45000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "6/21",
+    "val": 1000,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "7/10",
+    "val": 24800,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "7/11",
+    "val": 11500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/12",
+    "val": 1250,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "8/13",
+    "val": 34325,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/16",
+    "val": 5850,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/19",
+    "val": 1300,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "8/20",
+    "val": 30100,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/25",
+    "val": 1150,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "8/26",
+    "val": 26000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/31",
+    "val": 36000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "8/31",
+    "val": 1000,
+    "place": "",
+    "memo": "タコタコキング"
+  },
+  {
+    "date": "9/5",
+    "val": 12000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "9/9",
+    "val": 1400,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "9/10",
+    "val": 20000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "9/16",
+    "val": 8000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "9/26",
+    "val": 21500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "9/26",
+    "val": 1030,
+    "place": "",
+    "memo": "ちびすけ"
+  },
+  {
+    "date": "10/2",
+    "val": 16000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "10/6",
+    "val": 1500,
+    "place": "",
+    "memo": "pindako"
+  },
+  {
+    "date": "10/7",
+    "val": 13500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "10/11",
+    "val": 24000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "10/11",
+    "val": 2230,
+    "place": "",
+    "memo": "かすうどん"
+  },
+  {
+    "date": "10/22",
+    "val": 11550,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "10/23",
+    "val": 6000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "10/31",
+    "val": 1200,
+    "place": "",
+    "memo": "ぴんだこ"
+  },
+  {
+    "date": "11/17",
+    "val": 42000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "11/21",
+    "val": 3200,
+    "place": "",
+    "memo": "ぴんだこ"
+  },
+  {
+    "date": "11/22",
+    "val": 18500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "12/2",
+    "val": 7500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "12/2",
+    "val": 1350,
+    "place": "",
+    "memo": "ちびすけ（日付なし"
+  },
+  {
+    "date": "12/12",
+    "val": 3000,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "12/12",
+    "val": 1730,
+    "place": "",
+    "memo": "ちびすけ（日付なし"
+  },
+  {
+    "date": "12/13",
+    "val": 12500,
+    "place": "",
+    "memo": "namba"
+  },
+  {
+    "date": "12/19",
+    "val": 9200,
+    "place": "",
+    "memo": "namba"
+  }
+]

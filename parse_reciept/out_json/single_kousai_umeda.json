@@ -1,0 +1,308 @@
+[
+  {
+    "date": "20230101",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "おくまん",
+    "tekiyou": "飲食等",
+    "val": 2850
+  },
+  {
+    "date": "20230101",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "堂山食堂",
+    "tekiyou": "飲食等",
+    "val": 2690
+  },
+  {
+    "date": "20230115",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ときわ亭",
+    "tekiyou": "飲食等",
+    "val": 3998
+  },
+  {
+    "date": "20230124",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "十八番",
+    "tekiyou": "飲食等",
+    "val": 4236
+  },
+  {
+    "date": "20230124",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "タコ酒場クレオール",
+    "tekiyou": "飲食等",
+    "val": 2400
+  },
+  {
+    "date": "20230209",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "牛角",
+    "tekiyou": "飲食等",
+    "val": 3394
+  },
+  {
+    "date": "20230209",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ステーキファイブと寿司六",
+    "tekiyou": "飲食等",
+    "val": 3220
+  },
+  {
+    "date": "20230221",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "にくや（２９８）",
+    "tekiyou": "飲食等",
+    "val": 3400
+  },
+  {
+    "date": "20230221",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "どんがめ",
+    "tekiyou": "飲食等",
+    "val": 786
+  },
+  {
+    "date": "20230221",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "RIVERCAFE",
+    "tekiyou": "飲食等",
+    "val": 1850
+  },
+  {
+    "date": "20230401",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "琴嵐",
+    "tekiyou": "飲食等",
+    "val": 4570
+  },
+  {
+    "date": "20230401",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "とっつぁん",
+    "tekiyou": "飲食等",
+    "val": 6357
+  },
+  {
+    "date": "20230423",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "立ちのみ庶民",
+    "tekiyou": "飲食等",
+    "val": 2450
+  },
+  {
+    "date": "20230430",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ときわ亭",
+    "tekiyou": "飲食等",
+    "val": 3143
+  },
+  {
+    "date": "20230519",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ボトルバード",
+    "tekiyou": "飲食等",
+    "val": 4059
+  },
+  {
+    "date": "20230616",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "KIEFEL",
+    "tekiyou": "飲食等",
+    "val": 1960
+  },
+  {
+    "date": "20230709",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ときわ亭",
+    "tekiyou": "飲食等",
+    "val": 2593
+  },
+  {
+    "date": "20230710",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "はせがわ",
+    "tekiyou": "飲食等",
+    "val": 2600
+  },
+  {
+    "date": "20230710",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "さしす",
+    "tekiyou": "飲食等",
+    "val": 3619
+  },
+  {
+    "date": "20230710",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "じんべえ",
+    "tekiyou": "飲食等",
+    "val": 3575
+  },
+  {
+    "date": "20230821",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "３６５酒場",
+    "tekiyou": "飲食等",
+    "val": 4367
+  },
+  {
+    "date": "20230827",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "金の粉",
+    "tekiyou": "飲食等",
+    "val": 1880
+  },
+  {
+    "date": "20230827",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "寿司センター",
+    "tekiyou": "飲食等",
+    "val": 3916
+  },
+  {
+    "date": "20230827",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "昭和ゴールデン",
+    "tekiyou": "飲食等",
+    "val": 2970
+  },
+  {
+    "date": "20230830",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "函太郎",
+    "tekiyou": "飲食等",
+    "val": 8963
+  },
+  {
+    "date": "20230916",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "寿司のだりぴん",
+    "tekiyou": "飲食等",
+    "val": 1990
+  },
+  {
+    "date": "20231015",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "勝男",
+    "tekiyou": "飲食等",
+    "val": 2000
+  },
+  {
+    "date": "20231025",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "蝋燭屋-クレジット売上票２枚に分かれている",
+    "tekiyou": "飲食等",
+    "val": 2400
+  },
+  {
+    "date": "20231025",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ビクター",
+    "tekiyou": "飲食等",
+    "val": 1000
+  },
+  {
+    "date": "20231124",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "あかまる",
+    "tekiyou": "飲食等",
+    "val": 4111
+  },
+  {
+    "date": "20231129",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "bindu",
+    "tekiyou": "飲食等",
+    "val": 2100
+  },
+  {
+    "date": "20231210",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "大衆島酒場てぃだ",
+    "tekiyou": "飲食等",
+    "val": 4100
+  },
+  {
+    "date": "20231212",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "ボクのスタンド",
+    "tekiyou": "飲食等",
+    "val": 2508
+  },
+  {
+    "date": "20231224",
+    "denpyou": "",
+    "kanjou": "接待交際費",
+    "aite": "事業主借",
+    "memo": "勝男",
+    "tekiyou": "飲食等",
+    "val": 2000
+  }
+]

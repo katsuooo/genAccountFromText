@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230111",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_hollyscafe_honmachi",
+    "tekiyou": "作業検討",
+    "val": 400
+  },
+  {
+    "date": "20230713",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_hollyscafe_honmachi",
+    "tekiyou": "作業検討",
+    "val": 270
+  }
+]

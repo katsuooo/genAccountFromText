@@ -1,0 +1,47 @@
+[
+  {
+    "date": "20230101",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_bbcafe_nishinakajima",
+    "tekiyou": "作業検討",
+    "val": 3400
+  },
+  {
+    "date": "20230405",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_bbcafe_nishinakajima",
+    "tekiyou": "作業検討",
+    "val": 1460
+  },
+  {
+    "date": "20230517",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_bbcafe_nishinakajima",
+    "tekiyou": "作業検討",
+    "val": 3300
+  },
+  {
+    "date": "20230708",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "クレジット売上表のみ。__kaigi_bbcafe_nishinakajima",
+    "tekiyou": "作業検討",
+    "val": 1580
+  },
+  {
+    "date": "20230714",
+    "denpyou": "",
+    "kanjou": "会議費",
+    "aite": "事業主借",
+    "memo": "kaigi_bbcafe_nishinakajima",
+    "tekiyou": "作業検討",
+    "val": 2300
+  }
+]

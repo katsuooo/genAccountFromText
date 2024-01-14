@@ -1,0 +1,20 @@
+[
+  {
+    "date": "20230113",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "shoumouhin_daiso_kyoto",
+    "tekiyou": "物品購入",
+    "val": 328
+  },
+  {
+    "date": "20230327",
+    "denpyou": "",
+    "kanjou": "消耗品費",
+    "aite": "事業主借",
+    "memo": "cando__shoumouhin_daiso_kyoto",
+    "tekiyou": "物品購入",
+    "val": 110
+  }
+]

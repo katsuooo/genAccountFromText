@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2/25",
+    "val": 4600,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "5/3",
+    "val": 3840,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "6/3",
+    "val": 1880,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "8/16",
+    "val": 3080,
+    "place": "",
+    "memo": ""
+  },
+  {
+    "date": "9/24",
+    "val": 4000,
+    "place": "",
+    "memo": ""
+  },
+  {
+    "date": "10/29",
+    "val": 5840,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "11/15",
+    "val": 1200,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "12/1",
+    "val": 1200,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "12/18",
+    "val": 1640,
+    "place": "",
+    "memo": "kyobashi"
+  },
+  {
+    "date": "12/31",
+    "val": 4160,
+    "place": "",
+    "memo": "kyobashi"
+  }
+]

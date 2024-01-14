@@ -1,0 +1,479 @@
+[
+  {
+    "date": "20230102",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ヴィアイン四ツ橋",
+    "tekiyou": "",
+    "val": 14720
+  },
+  {
+    "date": "20230104",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "スマイルホテル大阪中之島",
+    "tekiyou": "",
+    "val": 16500
+  },
+  {
+    "date": "20230114",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "京都街宿五条大橋",
+    "tekiyou": "",
+    "val": 6100
+  },
+  {
+    "date": "20230123",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ネストホテル京都四条烏丸",
+    "tekiyou": "",
+    "val": 4285
+  },
+  {
+    "date": "20230129",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "スマイルホテル大阪四ツ橋",
+    "tekiyou": "",
+    "val": 6500
+  },
+  {
+    "date": "20230130",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテル-エルモント筑後",
+    "tekiyou": "",
+    "val": 15800
+  },
+  {
+    "date": "20230202",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルアベニュー筑後",
+    "tekiyou": "",
+    "val": 5600
+  },
+  {
+    "date": "20230203",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルアベニュー筑後",
+    "tekiyou": "",
+    "val": 5600
+  },
+  {
+    "date": "20230207",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルマイステイズ京都",
+    "tekiyou": "",
+    "val": 400
+  },
+  {
+    "date": "20230216",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルアスティア名古屋栄",
+    "tekiyou": "",
+    "val": 5290
+  },
+  {
+    "date": "20230217",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "名古屋ガーランドホテル",
+    "tekiyou": "",
+    "val": 6200
+  },
+  {
+    "date": "20230219",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "HOTEL-PAGONG",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230223",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "三交イン大阪淀屋橋",
+    "tekiyou": "",
+    "val": 6700
+  },
+  {
+    "date": "20230226",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "リノホテル京都",
+    "tekiyou": "",
+    "val": 400
+  },
+  {
+    "date": "20230308",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "Ｒ＆Ｂホテル京都四条河原町",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230309",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "秀仙閣京都",
+    "tekiyou": "",
+    "val": 5200
+  },
+  {
+    "date": "20230311",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "workspacetimes道頓堀",
+    "tekiyou": "",
+    "val": 3090
+  },
+  {
+    "date": "20230312",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "くれたけイン大阪堺筋本町",
+    "tekiyou": "",
+    "val": 5300
+  },
+  {
+    "date": "20230314",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルメディア京都四条大宮",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230316",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "workspacetimes道頓堀",
+    "tekiyou": "",
+    "val": 2980
+  },
+  {
+    "date": "20230405",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "金太郎",
+    "tekiyou": "",
+    "val": 2000
+  },
+  {
+    "date": "20230410",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "アプレシオ梅田",
+    "tekiyou": "",
+    "val": 3400
+  },
+  {
+    "date": "20230410",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "京都堀川イン",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230418",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TRAVELLODGE-KYOTO",
+    "tekiyou": "",
+    "val": 7850
+  },
+  {
+    "date": "20230419",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TRAVELLODGE-KYOTO",
+    "tekiyou": "",
+    "val": 8275
+  },
+  {
+    "date": "20230425",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "アーバイン京都",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230427",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TRAVELLODGE-KYOTO",
+    "tekiyou": "",
+    "val": 5225
+  },
+  {
+    "date": "20230501",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "金太郎",
+    "tekiyou": "",
+    "val": 1100
+  },
+  {
+    "date": "20230509",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "IBIS-STYLES",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230510",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TRAVELLODGE-KYOTO",
+    "tekiyou": "",
+    "val": 5225
+  },
+  {
+    "date": "20230529",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ザセレクトン京都堀川三条",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230606",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "IBIS-STYLES",
+    "tekiyou": "",
+    "val": 5700
+  },
+  {
+    "date": "20230607",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "コンフォートイン京都",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20230619",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "welina-hotel",
+    "tekiyou": "",
+    "val": 5800
+  },
+  {
+    "date": "20230625",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "delstyle大阪新梅田",
+    "tekiyou": "",
+    "val": 0
+  },
+  {
+    "date": "20230629",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "レム六本木",
+    "tekiyou": "",
+    "val": 100
+  },
+  {
+    "date": "20230718",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ユニゾイン大阪北浜",
+    "tekiyou": "",
+    "val": 5983
+  },
+  {
+    "date": "20230725",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "シリコンハウス",
+    "tekiyou": "",
+    "val": 279
+  },
+  {
+    "date": "20230824",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TUNE-STYLE",
+    "tekiyou": "",
+    "val": 5303
+  },
+  {
+    "date": "20230903",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "TUNE-STYLE",
+    "tekiyou": "",
+    "val": 12226
+  },
+  {
+    "date": "20230923",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "グランカスタマ上野",
+    "tekiyou": "",
+    "val": 4400
+  },
+  {
+    "date": "20230923",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ルノアール銀座",
+    "tekiyou": "",
+    "val": 1790
+  },
+  {
+    "date": "20230924",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "GRAN-CYBER",
+    "tekiyou": "",
+    "val": 4020
+  },
+  {
+    "date": "20230929",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "justsleep-心斎橋",
+    "tekiyou": "",
+    "val": 100
+  },
+  {
+    "date": "20231005",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテル＠１心斎橋",
+    "tekiyou": "",
+    "val": 5900
+  },
+  {
+    "date": "20231011",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテル＠１心斎橋",
+    "tekiyou": "",
+    "val": 5900
+  },
+  {
+    "date": "20231109",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテルエムズプラス-四条大宮",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20231119",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテル＠１-北心斎橋",
+    "tekiyou": "",
+    "val": 6600
+  },
+  {
+    "date": "20231123",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "atarayo-久宝寺町",
+    "tekiyou": "",
+    "val": 5670
+  },
+  {
+    "date": "20231126",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ホテル＠１-日本橋",
+    "tekiyou": "",
+    "val": 3280
+  },
+  {
+    "date": "20231206",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "グリーンリッチホテル京都駅前店",
+    "tekiyou": "",
+    "val": 200
+  },
+  {
+    "date": "20231213",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "ビスポークホテル-心斎橋",
+    "tekiyou": "",
+    "val": 6100
+  },
+  {
+    "date": "20231230",
+    "denpyou": "",
+    "kanjou": "旅費交通費",
+    "aite": "事業主借",
+    "memo": "無印良品-梅田",
+    "tekiyou": "",
+    "val": 1500
+  }
+]
