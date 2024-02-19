@@ -12,6 +12,7 @@ from .singleKousai import singleKousai
 from .singleParseNoKotu import singleParseNoKotu
 from .singleYachin import singleYachin
 from .singleZappi import singleZappi
+from .suidouKounetsu import suidouKounetsu
 
 
 class singleGroup:
@@ -64,3 +65,5 @@ class singleGroup:
                 singleParseNoKotu(fname, singlesJ[fname])  
             elif 'single_zappi' in fname:
                 singleZappi(fname, singlesJ[fname])  
+            elif 'single_suidoukonetsu' in fname:
+                suidouKounetsu(fname, singlesJ[fname])

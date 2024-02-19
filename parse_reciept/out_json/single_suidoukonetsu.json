@@ -1,0 +1,29 @@
+[
+  {
+    "date": "20231005",
+    "denpyou": "",
+    "kanjou": "水道光熱費",
+    "aite": "事業主借",
+    "memo": "suidou10/5",
+    "tekiyou": "水道代",
+    "val": 1606
+  },
+  {
+    "date": "20231111",
+    "denpyou": "",
+    "kanjou": "水道光熱費",
+    "aite": "事業主借",
+    "memo": "suidou11/11",
+    "tekiyou": "水道代",
+    "val": 55
+  },
+  {
+    "date": "20231210",
+    "denpyou": "",
+    "kanjou": "水道光熱費",
+    "aite": "事業主借",
+    "memo": "suidou12/10",
+    "tekiyou": "水道代",
+    "val": 55
+  }
+]

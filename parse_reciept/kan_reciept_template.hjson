@@ -14,7 +14,8 @@
     "zappi":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "事業主借","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0},   
     "zappi_u":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "売掛金","memo": "振込手数料TOTAL","tekiyou": "振込手数料","val": 0},   
     "zappi_r":{"date": "yyyymmdd","denpyou": "","kanjou": "雑費","aite": "事業主借","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0},
-    "zappi_m":{"date": "yyyymmdd","denpyou": "","kanjou": "事業主借","aite": "未払金","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0}
+    "zappi_m":{"date": "yyyymmdd","denpyou": "","kanjou": "事業主借","aite": "未払金","memo": "振込手数料TOTAL","tekiyou": "雑費","val": 0},
+    "suidoukonetsu":{"date": "yyyymmdd","denpyou": "","kanjou": "水道光熱費","aite": "事業主借","memo": "sudoukounetsu","tekiyou": "水道代","val": 0}
    },
   "yachin": {
     "monthly":{"date": "yyyymmdd","denpyou": "","kanjou": "地代家賃","aite": "事業主借","memo": "家賃","tekiyou": "家賃","val": 76108},

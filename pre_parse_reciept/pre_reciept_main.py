@@ -55,7 +55,7 @@ sg.toJson(allFile['single'])
 #
 
 #
-# 交通費作成
+# 交通費作成   // 交通費はpitapaデータをつかう個々の勘定からの交通費作成はやめる
 #
 '''
 from .aggregatePlaceList import aggregatePlaceList
