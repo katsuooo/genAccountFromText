@@ -52,6 +52,7 @@ class singleYachin:
         command = items[1]
         memo = ''
         iu = inputsUtil()
+        print(items)
         '''yomh コマンド解析'''
         if command == 'y':
             val = iu.getYachin()
@@ -96,6 +97,7 @@ class singleYachin:
         fio.saveInputs(newd, fname)
     def saveYachins(self, fname):
         '''yachin 5fileの保存'''
+        print('yachin-',fname,self.yachin)
         if len(self.yachin) != 0:
             self.saveJson(self.yachin, fname)
         if len(self.yachin_y) != 0:

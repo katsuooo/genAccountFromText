@@ -32,7 +32,6 @@ class singleRyohi:
             else:
                 memo = items[2]
             newd.append(iu.parseBuy(date,val,memo))
-        print(fname, newd)
         fio.saveInputs(newd, fname)
     def toJson(self, fname, ryohiJson):
         '''text >>> json'''

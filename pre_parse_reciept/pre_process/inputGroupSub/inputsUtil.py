@@ -14,7 +14,6 @@ class inputsUtil:
         return self.inputConfig      
     def getDefaultPlace(self, fname):
         '''ファイルのデフォルト場所を得る'''
-        print(fname, fname.upper())
         return self.inputsConfig['default_place'][fname.upper()]
     def getSpecificPlace(self, placeKey):
         '''ファイルの指定の場所を得る'''

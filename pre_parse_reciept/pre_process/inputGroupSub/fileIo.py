@@ -37,7 +37,6 @@ class fileIo:
         fpath: file path list
         '''
         dir_path = fpath[0:len(fpath)-1]
-        print(dir_path)
         self.checkDirUmu(os.path.sep.join(dir_path))
         fname = os.path.sep.join(fpath)
         if '.json' not in fname:

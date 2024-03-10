@@ -13,6 +13,7 @@ from .singleParseNoKotu import singleParseNoKotu
 from .singleYachin import singleYachin
 from .singleZappi import singleZappi
 from .suidouKounetsu import suidouKounetsu
+from .singleTuhan import singleTuhan
 
 
 class singleGroup:
@@ -41,7 +42,6 @@ class singleGroup:
         self.saveKotu(newl, fname)
     def toJson(self, singlesJ):
         ''' text to json '''
-        print(singlesJ.keys())
         for fname in singlesJ:
             if fname == 'single_library':
                 self.libraryToJson(fname, singlesJ[fname])
@@ -58,6 +58,7 @@ class singleGroup:
             elif fname == 'single_ryohi_shin_kan_sen':
                 singleParseNoKotu(fname, singlesJ[fname])   
             elif fname == 'single_yachin':
+                print(singlesJ[fname])
                 singleYachin(fname, singlesJ[fname])               
             elif fname == 'single_uriage':
                 singleParseNoKotu(fname, singlesJ[fname])    
@@ -67,3 +68,5 @@ class singleGroup:
                 singleZappi(fname, singlesJ[fname])  
             elif 'single_suidoukonetsu' in fname:
                 suidouKounetsu(fname, singlesJ[fname])
+            elif 'single_tuhan' in fname:
+                singleTuhan(fname, singlesJ[fname])

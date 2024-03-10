@@ -43,7 +43,6 @@ class singleKousai:
         myPlace = self.getDefaultPlaceKousai(fname)
         for line in lines:
             #myPlace = iu.getDefaultPlaceKousai(fname)   
-            print(fname, line)
             items = line.split(' ')
             date = items[0]
             val = int(items[1])

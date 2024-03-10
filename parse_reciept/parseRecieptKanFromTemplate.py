@@ -30,7 +30,6 @@ class parseRecieptKan:
         '''jdはfile list'''
         t = templater()
         template = t.getTemplateByFname(fname)
-        print(fname, template)
         self.recieptKan = []
         #print(fname)
         for x in jd:

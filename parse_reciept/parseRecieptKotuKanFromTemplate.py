@@ -37,8 +37,9 @@ class parseRecieptKotuKan:
             template = t.getTemplateByPlace(x['place'])
             if template != 'NO_KOTU':
                 self.parseByTemplate(x, template)
-        fio = fileio(self.prj_dir)
-        fio.saveKotuKan(self.recieptKan, fname)
+        #交通勘定はpitapaデータからとる。個々の勘定からの生成はやめる
+        #fio = fileio(self.prj_dir)
+        #fio.saveKotuKan(self.recieptKan, fname)
     def parseFiles(self, filesJson):
         for key in filesJson:
             self.parse(key, filesJson[key])

@@ -11,11 +11,16 @@
 # レシートテキストから勘定を生成
 #
 #
+# deleater >>> pre_parse_reciept/pre_reciept_mainで実行
+# pre_parse_reciept/pre_process/intermediate_json_reciept
+#
+
+#
 # 事前ラフパース
 #
 from pre_parse_reciept import pre_reciept_main
 
-pre_reciept_main
+#pre_reciept_main
 
 
 #
@@ -23,12 +28,6 @@ pre_reciept_main
 #
 from parse_reciept import reciept_kan_templater_main
 
-reciept_kan_templater_main
+#reciept_kan_templater_main
 
 
-#
-# ステートメントファイルから勘定を生成   
-#
-#from parse_statement import statement_main
-
-#statement_main

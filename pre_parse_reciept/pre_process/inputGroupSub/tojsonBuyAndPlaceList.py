@@ -35,12 +35,10 @@ class tojsonBuyAndPlaceList:
             line = line.replace('　',' ')
             items = line.split(' ')
             date = items[0]
-            print('parse',fname, items)
             if '+' in items[1]:
                 num = items[1].split('+')
                 sum = 0
                 for i in num:
-                    print(i,type(i))
                     sum += int(i)
                 items[1] = sum
             val = int(items[1])

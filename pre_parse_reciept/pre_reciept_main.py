@@ -45,6 +45,7 @@ tbk = tojsonBuyAndPlaceList()
 tbk.toJson(allFile['kaigi'])
 tbk.toJson(allFile['shoumouhin'])
 tbk.toJson(allFile['book'])
+#tbk.toJson(allFile['tushin'])
 sg.toJson(allFile['single'])
 #
 # 会議費

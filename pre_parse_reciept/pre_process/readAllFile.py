@@ -80,7 +80,6 @@ class inputGroup:
         tbk.toJson(all['kaigi'])
         tbk.toJson(all['shoumouhin'])
         tbk.toJson(all['book'])
-        print('all-single',all['single'])
         sg.toJson(all['single'])
         dg.toJson(all['dc'])
         rg.toJson(all['risona'])

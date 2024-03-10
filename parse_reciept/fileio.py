@@ -35,7 +35,6 @@ class fileio:
         all = {}
         for label in labels:
             all[label] = self.readJson(dirName, label)
-        print('all-files',all)
         return all
     def readKotuAll(self):
         '''prj_project/intermediate_json_kotuフォルダを全リードして返す'''
@@ -55,6 +54,8 @@ class fileio:
         fname = os.path.sep.join([str(pathlib.Path(__file__).parents[0]), 'out_json', label])
         if '.json' not in fname:
             fname += '.json'
+        if not os.path.isdir('parse_reciept/out_json'):
+            os.mkdir('parse_reciept/out_json')
         with open(fname, 'w', encoding='utf-8') as f:
             json.dump(jd, f, ensure_ascii=False, sort_keys=False, indent=2)
     def saveKan(self, jd, name):

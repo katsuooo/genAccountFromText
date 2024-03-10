@@ -1,13 +1,11 @@
+''' ryohi input
+    自動添付交通費はつけない
 '''
-水道光熱費
 
-年末の売掛金の振込手数料で引かれた分をまとめて記載
-yatin_u 売掛金
-'''
 from .fileIo import fileIo
 from .inputsUtil import inputsUtil
 
-class suidouKounetsu:
+class singleTuhan:
     def __init__(self, fname, jd):
         '''jd = [line1, line2, ...]'''
         self.toJson(fname, jd)
@@ -21,7 +19,7 @@ class suidouKounetsu:
     def parse(self, fname, lines, fio):#
         '''text linesのパース'''
         '''lines
-            10/5 1606
+        [m/d, xxxx(val), place, memo or none]
         '''
         iu = inputsUtil()
         newd = []
@@ -29,12 +27,13 @@ class suidouKounetsu:
             items = line.split(' ')
             date = items[0]
             val = int(items[1])
-            memo = 'suidou' + items[0]
+            if len(items) > 3:
+                memo = items[2] + '-' + items[3]
+            else:
+                memo = items[2]
             newd.append(iu.parseBuy(date,val,memo))
         fio.saveInputs(newd, fname)
-
-    def toJson(self, fname, suidouJson):
+    def toJson(self, fname, ryohiJson):
         '''text >>> json'''
         fio = fileIo()
-        self.parse(fname, suidouJson, fio)
-
+        self.parse(fname, ryohiJson, fio)
