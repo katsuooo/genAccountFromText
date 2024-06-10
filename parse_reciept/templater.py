@@ -7,8 +7,10 @@ import hjson
 import pathlib
 
 class templater:
-    def __init__(self):
-        self.template = self.readTemplate()
+    def __init__(self,tempHjson):
+        #self.template = self.readTemplate()
+        self.template = tempHjson
+
     def readTemplate(self):
         '''templete.jsonを読み込み'''
         #with open('pg_statement_parser/kan_template.json', 'r', encoding='utf-8') as f:
@@ -16,6 +18,7 @@ class templater:
         x = pathlib.Path(__file__).parent
         with open( str(x.absolute()) + '\kan_reciept_template.hjson', 'r', encoding='utf-8') as f:
             return hjson.load(f)
+
     def getTemplateByFname(self, fname):
         '''template選択'''
         key_label = fname.split('_')

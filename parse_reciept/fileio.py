@@ -36,6 +36,18 @@ class fileio:
         for label in labels:
             all[label] = self.readJson(dirName, label)
         return all
+    
+    def readAllIntermediate(self, path):
+        #中間ファイルの全読み込み
+        #dirName = os.path.sep.join([self.getParent(), pre_file_dir,'intermediate_json_reciept'])
+        #labels = self.getFileNamesFromFolderExdir(dirName)
+        labels = self.getFileNamesFromFolderExdir(path)
+        all = {}
+        for label in labels:
+            #all[label] = self.readJson(dirName, label)
+            all[label] = self.readJson(path, label)
+        return all
+
     def readKotuAll(self):
         '''prj_project/intermediate_json_kotuフォルダを全リードして返す'''
         dirName = os.path.sep.join([self.getParent(), 'pre_parse_reciept','intermediate_json_kotu'])

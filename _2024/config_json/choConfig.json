@@ -1,0 +1,62 @@
+{ 
+    "year":"2023",
+    "DC_PAY_ANBUN" : {
+        "denki" : "85",
+        "gus"   : "60",
+        "keitai": "90",
+        "net"   : "90",
+        "yachin": "75"
+    },
+    "FORM_BASE": {
+        "date": "",
+        "denpyou": "",
+        "kanjou": "",
+        "aite":"",
+        "memo": "",
+        "tekiyou": "",
+        "val": ""
+    },
+    "PAY_KAN_INFO": {
+        "KAIGI_*"         : {"kanjou":"会議費", "aite":"事業主借", "tekiyou":"作業検討"},
+        "SHOUMOUHIN_*"    : {"kanjou":"消耗品費", "aite":"事業主借", "tekiyou":"物品購入"},
+        "BOOK_*"          : {"kanjou":"消耗品費", "aite":"事業主借", "tekiyou":"書籍購入"},
+        "SINGLE_KOUSAI"   : {"kanjou":"接待交際費", "aite":"事業主借", "tekiyou":"飲食等"},
+        "SINGLE_NIZUKURI" : {"kanjou":"荷造運賃", "aite":"事業主借", "tekiyou":"配送費"},
+        "SINGLE_RYOHI"    : {"kanjou":"旅費交通費", "aite":"事業主借", "tekiyou":"タクシー等"},
+        "SINGLE_YACHIN"   : {"kanjou":"地代家賃", "aite":"事業主借", "tekiyou":"家賃"},
+        "SINGLE_YACHIN_Y" : {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"前年分家賃遅れ払い"},
+        "SINGLE_YACHIN_OM": {"kanjou":"地代家賃", "aite":"未払金", "tekiyou":"家賃(払い忘れ)"},
+        "SINGLE_YACHIN_OH": {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"家賃(遅れ払い)"},
+        "SINGLE_YACHIN_M" : {"kanjou":"地代家賃", "aite":"未払金", "tekiyou":"家賃(年度末払い忘れ)"},
+        "SINGLE_YACHIN_H" : {"kanjou":"地代家賃", "aite":"事業主借", "tekiyou":"保険等"},
+        "SINGLE_URIAGE"   : {"kanjou":"売掛金", "aite":"売上高", "tekiyou":"売上計上"},
+        "SINGLE_GAICHUKOUCHIN" : {"kanjou":"外注工賃", "aite":"事業主借", "tekiyou":"外注に委託"},
+        "DC_KEITAI"       : {"kanjou":"通信費", "aite":"未払金", "tekiyou":"Yモバイル"},
+        "SINGLE_ZAPPI_U"   : {"kanjou":"雑費", "aite":"売掛金", "tekiyou":"振込手数料"}
+    },
+    "yachin": 76110,
+    "net": 4104,
+    "RISONA_KAN_INFO" :{
+        "KISHU": {"kanjou":"預金", "aite":"期首", "tekiyou":"期首預金"},
+        "KENPO": {"kanjou":"事業主貸", "aite":"預金", "tekiyou":"保険料_大阪市健保"},
+        "KYOUSAI": {"kanjou":"事業主貸", "aite":"預金", "tekiyou":"振替_府民共済"},
+        "RISOKU": {"kanjou":"事業主借", "aite":"預金", "tekiyou":"利息"},
+        "NYUUKIN": {"kanjou":"事業主借", "aite":"預金", "tekiyou":"入金"},
+        "ZEIKIN": {"kanjou":"事業主貸", "aite":"預金", "tekiyou":"税金等"},
+        "URIKAKE_NYUUKIN": {"kanjou":"預金", "aite":"売掛金", "tekiyou":"売掛入金"},
+        "SHUKKIN": {"kanjou":"事業主貸", "aite":"預金", "tekiyou":"出金"},
+        "KYOUSAI_HURIKOMI": {"kanjou":"事業主借", "aite":"預金", "tekiyou":"府民共済返金"}
+    },
+    "customers": ["豊永産業"],
+    "STATEMENT_KAN_INFO" :{
+        "DC_DENKI": {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"電気代"},
+        "DC_GUS": {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"ガス代"},
+        "DC_KEITAI_YM": {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"携帯代(YMOBILE)"},
+        "YAHOO_NET": {"kanjou":"事業主借", "aite":"未払金", "tekiyou":"インターネット接続料"},
+        "HAPIE_DENKI": {"kanjou":"通信費", "aite":"未払金", "tekiyou":"関電電気"},
+        "HAPIE_GUS": {"kanjou":"通信費", "aite":"未払金", "tekiyou":"関電ガス"},
+        "SOFTBANK_HIKARI": {"kanjou":"通信費", "aite":"未払金", "tekiyou":"インターネット接続料"},
+        "YMOBILE": {"kanjou":"通信費", "aite":"未払金", "tekiyou":"携帯代(YMOBILE)"},
+        "RAKUTEN_MOBILE": {"kanjou":"通信費", "aite":"未払金", "tekiyou":"携帯代(RAKUTEN)"}
+    }
+}

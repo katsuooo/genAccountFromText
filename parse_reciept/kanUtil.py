@@ -47,6 +47,7 @@ class kanUtil:
         ''' yyyy0101 をもとめる '''
         fio = fileio(self.prj_dir)
         return fio.getYear() + '0101'
+
     def setKanDate(self, orgDate):
         '''kanjou仕様にdateを変換してself.kanにセット'''
         orgDate = orgDate.replace('"','').replace("'","")
@@ -63,3 +64,28 @@ class kanUtil:
         elif len(orgDate) == 8:
             kanDate = orgDate
         return kanDate        
+    
+    def convSlashOneWithYear(self, orgDate, year):
+        ''' mm/ddをdatetimeに変換 '''
+        m = int(orgDate.split('/')[0])
+        d = int(orgDate.split('/')[1])
+        y = int(year)
+        pydate = date(y,m,d)
+        return self.kanDateForm(pydate)
+    
+    def setKanDateWithYear(self, orgDate, year):
+        '''kanjou仕様にdateを変換してself.kanにセット'''
+        orgDate = orgDate.replace('"','').replace("'","")
+        #orgDate = orgDate
+        if '年' in orgDate:
+            # xxxx年mm月xx日
+            kanDate = self.convJpDateWithYear(orgDate)
+        elif '月' in orgDate:
+            kanDate = self.convJpDate(orgDate)
+        elif orgDate.count('/') == 2:
+            kanDate = self.convSlashDate(orgDate)
+        elif orgDate.count('/') == 1:
+            kanDate = self.convSlashOneWithYear(orgDate,year)
+        elif len(orgDate) == 8:
+            kanDate = orgDate
+        return kanDate   
