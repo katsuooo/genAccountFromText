@@ -28,7 +28,7 @@ class singleGroup:
         fio.saveInputsKotu(jd, fname)
     def libraryToJson(self, fname, j):
         '''j = [m/d, m/d,....]
-        交通費用データをつくる
+        交通費用データをつくる -> 交通費はpitapaデータからとるので、excludeファイルとして保存する？
         '''
         libPlace = self.getDefaultPlace(fname.upper())
         base = self.iu.getBase()
@@ -44,6 +44,7 @@ class singleGroup:
         ''' text to json '''
         for fname in singlesJ:
             if fname == 'single_library':
+                print('call library-to-json')
                 self.libraryToJson(fname, singlesJ[fname])
             elif 'single_kousai' in fname:
                 singleKousai(fname, singlesJ[fname])

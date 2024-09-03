@@ -1,0 +1,8 @@
+入力ファイルのエラー
+
+9/2
+single_library
+パースエラー。items[1]がない。 tojsonbuyandplacelist.py 77
+
+
+

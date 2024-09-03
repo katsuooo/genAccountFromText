@@ -1,0 +1,23 @@
+raiseのエラー種
+
+
+# ZeroDivisionErrorを発生させる
+raise ZeroDivisionError("This is a zero division error")
+
+# NameErrorを発生させる
+raise NameError("This is a name error")
+
+# TypeErrorを発生させる
+raise TypeError("This is a type error")
+
+# IndexErrorを発生させる
+raise IndexError("This is an index error")
+
+# KeyErrorを発生させる
+raise KeyError("This is a key error")
+
+# ValueErrorを発生させる
+raise ValueError("This is a value error")
+
+# FileNotFoundErrorを発生させる
+raise FileNotFoundError("This is a file not found error")

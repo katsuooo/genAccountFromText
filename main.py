@@ -135,6 +135,13 @@ intermediateAll = rkt.readAllIntermediate(basePath + 'text_intermediate/')
 
 import hjson
 tempHjson = []
+#with open(basePath + 'text_config/kan_reciept_template.hjson','r',encoding='utf-8') as f:
+'''
+year = ''
+with open('../choData/config.json','r',encoding='utf-8') as f:
+    j = json.load(f)
+    year = j['year']
+'''
 with open(basePath + 'text_config/kan_reciept_template.hjson','r',encoding='utf-8') as f:
     tempHjson = hjson.load(f)
 

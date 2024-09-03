@@ -13,11 +13,11 @@ class templater:
 
     def readTemplate(self):
         '''templete.jsonを読み込み'''
-        #with open('pg_statement_parser/kan_template.json', 'r', encoding='utf-8') as f:
-        #    return json.load(f)
-        x = pathlib.Path(__file__).parent
-        with open( str(x.absolute()) + '\kan_reciept_template.hjson', 'r', encoding='utf-8') as f:
-            return hjson.load(f)
+        #x = pathlib.Path(__file__).parent
+        #with open( str(x.absolute()) + '\kan_reciept_template.hjson', 'r', encoding='utf-8') as f:
+        #with open( '../choData/kan_reciept_template.hjson', 'r', encoding='utf-8') as f:
+        #    return hjson.load(f)
+        pass
 
     def getTemplateByFname(self, fname):
         '''template選択'''
@@ -58,6 +58,20 @@ class templater:
                         return self.template['single']['zappi']    
                 else:
                     return self.template['single']['zappi']
+            elif key_label[1] == 'tax':
+                #支払い分のみかく。発生分もどこかにかく。
+                return self.template['single']['tax_shouhi_zei_shiharai']    
+                '''    
+                #消費税は２クエリを生成
+                #sub-keyをアペンドしておく
+                print(key_label)
+                if key_label[2] == 'h':
+                    #発生
+                    return self.template['single']['tax_shouhi_zei_hassei']    
+                elif key_label[2] == 's':
+                    #支払
+                    return self.template['single']['tax_shouhi_zei_shiharai']   
+                raise KeyError("tax sub-key error, h or s", key_label[2]) '''
             else:
                 return self.template['single'][key_label[1]]
                 

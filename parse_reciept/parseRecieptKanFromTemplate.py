@@ -37,19 +37,32 @@ class parseRecieptKan:
     def parse(self, fname, jd):
         '''jdはdict'''
         '''jdはfile list'''
-        #t = templater()
-        #template = t.getTemplateByFname(fname)
         template = self.templater.getTemplateByFname(fname)
         self.recieptKan = []
         for x in jd:
             self.parseByTemplate(x, template)
-        #fio = fileio(self.prj_dir)
-        #fio.saveKan(self.recieptKan, fname)
         return copy.deepcopy(self.recieptKan)
+
+    def parseTax(self, fname, jd):
+        '''消費税勘定'''
+        '''消費税は２つクエリを生成  日付処理ができないので、ここでは1つにする？'''
+        self.recieptKan = []
+        #template = self.templater.getTemplateByFname(fname + '_s')  #消費税発生
+        #for x in jd:
+        #    self.parseByTemplate(x, template)
+        template = self.templater.getTemplateByFname(fname + '_h')  #消費税支払い
+        for x in jd:
+            self.parseByTemplate(x, template)
+        return copy.deepcopy(self.recieptKan)
+       
 
     def parseFiles(self, filesJson):
         for key in filesJson:
-            self.parse(key, filesJson[key])
+            if key == 'tax':
+                '''消費税は２組のクエリを生成'''
+                self.parseTax(key, filesJson[key])
+            else:
+                self.parse(key, filesJson[key])
     
     def parseByTemplateWithYear(self,jd, template, year):
         x = copy.deepcopy(template)

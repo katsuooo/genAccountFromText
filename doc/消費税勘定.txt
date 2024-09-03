@@ -1,0 +1,12 @@
+
+kashikata                  karikata
+決算時	租税公課	5,000	未払消費税	5,000
+納付時	未払消費税	5,000	現金	5,000
+
+//---
+choData/2024/text_config/inputConfig.json
+
+//--
+支払い分のみをtextで勘定生成
+発生分はどこかに書く。
+

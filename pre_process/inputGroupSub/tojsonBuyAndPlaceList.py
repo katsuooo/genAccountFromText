@@ -66,14 +66,14 @@ class tojsonBuyAndPlaceList:
     def parseList(self, fname, lines, input_config):
         #text linesのパース 交通費データは使用しなくなったので作成しない
         iu = inputsUtil(input_config)
-        #myPlace = self.getPlace(fname)
         newd = []
-        #newKotu = []
-        #placeInfo = []
         for line in lines:
             line = line.replace('　',' ')
             items = line.split(' ')
             date = items[0]
+            if fname == 'exclude_library':
+                #libraryはval 240x2固定
+                items.append('480')
             if '+' in items[1]:
                 num = items[1].split('+')
                 sum = 0
@@ -102,7 +102,10 @@ class tojsonBuyAndPlaceList:
         '''
         jlist = []
         for fname in inputGroupJson:
+            print(fname)
             newd = self.parseList(fname, inputGroupJson[fname], input_config)
-            if len(newd) != 0:
+            if len(newd) != 0:        
+                #query sample -> [{'date':'3/14','val':320',place':'','memo':'kaigi_break_nagahori ','fname':'kaigi_break_nagahori '}, ...]
                 jlist.append(newd)
+            #raise ValueError('input fileのデータが0です', fname)
         return jlist

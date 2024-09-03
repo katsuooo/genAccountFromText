@@ -1,0 +1,36 @@
+交通費をpitapaで計測するように変更したため、libraryの交通費データは
+excludeとしてjsonファイル化するが、帳簿データとしない。
+
+
+//----
+single_libraryからexclude_libraryに変更する
+
+single_libraryのパース部
+
+singleGroup
+    def libraryToJson(self, fname, j):
+        '''j = [m/d, m/d,....]
+        交通費用データをつくる
+        '''
+        libPlace = self.getDefaultPlace(fname.upper())
+        base = self.iu.getBase()
+        newl = []
+        for x in j:
+            jd = copy.deepcopy(base)
+            jd['date'] = x
+            jd['memo'] = 'library'
+            jd['place'] = libPlace
+            newl.append(jd)
+        self.saveKotu(newl, fname)
+    def toJson(self, singlesJ):
+        ''' text to json '''
+        for fname in singlesJ:
+            if fname == 'single_library':
+                self.libraryToJson(fname, singlesJ[fname])
+
+//----
+excludeの場合
+
+
+
+
